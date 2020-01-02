@@ -1,0 +1,14 @@
+body{
+    background-image: url(builder.jpg);
+    background-position: fixed;
+    background-repeat: no-repeat;
+    background-size: 153%;
+    color: black;
+    font-family: arial, Helvetica, serif;
+    font-size:22px;
+    line-height:1.6em;
+}
+
+.box1{
+    border: 3px black
+}
